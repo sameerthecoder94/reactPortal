@@ -1,0 +1,14 @@
+.modal-portal {
+  background: rgba(0, 0, 0, 0.7);
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+
+.modal-content {
+  background: white;
+  margin: 16px;
+  padding: 16px;
+}
